@@ -19,7 +19,7 @@ jobs:
 
       - name: Git config
         run: |
-          git config --global user.email "shidadk@hotimail.es"
+          git config --global user.email "shidadk@hotmail.es"
           git config --global user.name "SkayDks"
 
       - name: Install
